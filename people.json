@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "person_id": "1001",
+            "first_name": "John",
+            "last_name": "Smith",
+            "email": "john.smith@test.com",
+            "active": 1
+        },
+        {
+            "person_id": "1002",
+            "first_name": "John",
+            "last_name": "Jerry",
+            "email": "john.jerry@test.com",
+            "active": 1
+        },
+        {
+            "person_id": "1003",
+            "first_name": "Alex",
+            "last_name": "Smith",
+            "email": "alex.smith@test.com",
+            "active": 1
+        }
+    ]
+}
